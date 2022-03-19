@@ -1,3 +1,3 @@
-# recipes for jollof rice.
+# Recipes for jollof rice.
 
 This will be done with HTML using the unordered list tag.
